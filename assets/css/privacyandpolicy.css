@@ -1,0 +1,35 @@
+.main-body{
+    padding: 5%;
+}
+h1{
+    font-size: xx-large;
+    color: #000;
+}
+h4{
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+p{
+    padding-top: 7px;
+}
+ol{
+    padding-top: 5px;
+    padding-left: 15px;
+}
+dl{
+    padding-top: 10px;
+    padding-left: 15px;
+}
+dt{
+    font-weight: 600;
+}
+dd{
+    padding-top: 7px;
+    padding-left: 20%;
+}
+.dle{
+    padding-left: 20%;
+}
+.dle dt{
+    font-weight: 400;
+}
