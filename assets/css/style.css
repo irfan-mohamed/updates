@@ -911,3 +911,14 @@ input[type=email], textarea {
     content: ' *';
     color: red;
 }
+
+@media (max-width:768px){
+    #lower-customerimg{
+        display: none;
+    }
+}
+@media (min-width:768px){
+    #upper-customerimg{
+        display: none;
+    }
+}
