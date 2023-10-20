@@ -329,7 +329,8 @@ span {
 
 .navbar {
     position: relative;
-    padding: 20px 0;
+    padding: 0px 0;
+    background-color: #fff;
 }
 
 
@@ -345,8 +346,8 @@ span {
         left: 0;
         width: 100%;
         padding: 5px 12px;
-        color: #ec1a24;
-        background-color: #ec1a24;
+        color: #fff;
+        background-color: #fff;
         box-shadow: 0 15px 20px 0 rgb(0 0 0 / 10%);
     }
 }
@@ -358,7 +359,7 @@ span {
 .toggle-button{
     width: 35px;
     height: 5px;
-    background-color: #fff;
+    background-color: #312f91;
     margin: 6px 0;
 }
 
@@ -376,12 +377,12 @@ span {
     padding: 10px 0;
     font-size: 18px;
     font-weight: 600;
-    color: #fff;
+    color: #312f91;
 }
 
 .navbar-nav .nav-item .nav-link.active,
 .navbar-nav .nav-item .nav-link:hover {
-    color: #0f0f0f;
+    color: #312f91;
 }
 
 .navbar-nav .nav-item .nav-link::before {
@@ -392,7 +393,7 @@ span {
     bottom: 0;
     left: 50%;
     border-radius: 50%;
-    background-color: #0f0f0f;
+    background-color: #312f91;
     opacity: 0;
     transition: all .3 ease-out 0s;
 }
